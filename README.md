@@ -2,7 +2,7 @@
 
 **Meridian** is a dual-stream perplexity architecture for equitable AI text detection that reduces false positive rates on ESL student writing by 15.7× compared to standard detectors, while maintaining 98.3% detection of AI-mimicked ESL text.
 
-> Associated paper: *"Meridian: A Bivariate Perplexity Architecture for Trustworthy and Equitable AI Text Detection"* — submitted to the AI4GOOD Workshop @ ICML 2026.
+> Associated paper: *"Meridian: A Bivariate Perplexity Architecture for Trustworthy and Equitable AI Text Detection"*- submitted to the AI4GOOD Workshop @ ICML 2026.
 
 ---
 
